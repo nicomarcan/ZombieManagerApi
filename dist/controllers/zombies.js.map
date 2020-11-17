@@ -1,0 +1,1 @@
+{"version":3,"file":"zombies.js","sourceRoot":"","sources":["../../src/controllers/zombies.ts"],"names":[],"mappings":";;;AAAA,6CAA6C;AAEhC,QAAA,UAAU,GAAG,CAAC,GAAG,EAAE,GAAG,EAAE,EAAE;IACnC,oBAAW,CAAC,IAAI,EAAE,CAAC,IAAI,CAAC,OAAO,CAAC,EAAE;QAC9B,GAAG,CAAC,IAAI,CAAC,OAAO,CAAC,CAAC;IACtB,CAAC,CAAC,CAAC;AACP,CAAC,CAAA"}
